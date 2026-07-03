@@ -61,19 +61,20 @@ CloudOps Velocity is a cloud engineering and platform engineering consultancy fo
 <a href="#overview">📖 <b>Overview</b></a> •
 <a href="#engineering-philosophy">⚙️ <b>Engineering Philosophy</b></a> •
 <a href="#what-we-build">🚀 <b>What We Build</b></a> •
-<a href="#services">☁️ <b>Services</b></a> •
-<a href="#technology-ecosystem">🛠️ <b>Technology</b></a> •
-<a href="#architectures">🏗️ <b>Architecture</b></a>
+<a href="#services">☁️ <b>Core Services</b></a> •
+<a href="#technology">🛠️ <b>Technology Stack</b></a> •
+<a href="#architectures">🏗️ <b>Reference Architectures</b></a>
 
 </p>
 
 <p align="center">
 
-<a href="#ai-infrastructure">🤖 <b>AI Infrastructure</b></a> •
-<a href="#case-studies">📚 <b>Case Studies</b></a> •
+<a href="#ai-platform-architecture">🤖 <b>AI Platform Architecture</b></a> •
+<a href="#technology-ecosystem">🌐 <b>Technology Ecosystem</b></a> •
+<a href="#engineering-case-studies">📚 <b>Case Studies</b></a> •
 <a href="#documentation">📘 <b>Documentation</b></a> •
-<a href="#roadmap">🗺️ <b>Roadmap</b></a> •
-<a href="#about">🏢 <b>About</b></a> •
+<a href="#engineering-roadmap">🗺️ <b>Roadmap</b></a> •
+<a href="#about-cloudops-velocity">🏢 <b>About</b></a> •
 <a href="#contact">📩 <b>Contact</b></a>
 
 </p>
@@ -565,7 +566,7 @@ CloudOps Velocity leverages modern cloud-native technologies to design, automate
 
 ---
 
-<a id="architectures"></a>
+<a id="ai-platform-architecture"></a>
 
 # 🏗 Reference Architectures
 
@@ -892,6 +893,8 @@ CloudOps Velocity is committed to building the engineering foundations that enab
 
 ---
 
+<a id="engineering-case-studies"></a>
+
 # 📚 Engineering Case Studies
 
 CloudOps Velocity believes the best way to demonstrate engineering capability is through real-world implementations rather than marketing claims.
@@ -1093,6 +1096,7 @@ Each completed initiative becomes part of a growing knowledge base that demonstr
 
 ---
 
+<a id="documentation"></a>
 # 📘 Documentation
 
 CloudOps Velocity believes great engineering extends beyond building infrastructure—it includes documenting architecture, operational processes, engineering standards, and implementation decisions.
@@ -1217,6 +1221,7 @@ At CloudOps Velocity, documentation is treated with the same importance as infra
 
 ---
 
+<a id="engineering-roadmap"></a>
 # 🗺️ Engineering Roadmap
 
 CloudOps Velocity is committed to continuously evolving its engineering capabilities to address the changing needs of modern cloud-native platforms and AI-driven applications.
