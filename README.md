@@ -44,10 +44,6 @@ Cloud Execution • Platform Engineering • AI Infrastructure
 
 </p>
 
-<p align="right">
-<a href="#top">⬆️ Back to Top</a>
-</p>
-
 ---
 
 <p align="center">
@@ -98,6 +94,10 @@ Rather than delivering isolated cloud services, we focus on building complete en
 
 Every solution we design follows modern engineering principles, emphasizing automation, reliability, security, documentation, and continuous improvement.
 
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
+
 ---
 
 # ⚙️ Engineering Philosophy
@@ -107,6 +107,10 @@ Modern cloud platforms should be more than infrastructure—they should serve as
 At CloudOps Velocity, every architecture, deployment pipeline, and operational process is designed around a consistent set of engineering principles that prioritize long-term maintainability over short-term convenience.
 
 These principles guide every solution we build, regardless of project size or industry.
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
 
 ---
 
@@ -123,6 +127,10 @@ These principles guide every solution we build, regardless of project size or in
 | 🏗 **Infrastructure as Code** | Manage cloud infrastructure through version-controlled, repeatable, and auditable automation. |
 | 📊 **Observability by Default** | Implement monitoring, logging, tracing, dashboards, and alerting from the beginning—not as an afterthought. |
 | 🔄 **Continuous Improvement** | Continuously refine architecture, automation, security, and operational practices based on measurable outcomes. |
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
 
 ---
 
@@ -141,6 +149,10 @@ Every engagement focuses on creating systems that are:
 - ✅ Designed to scale
 - ✅ Cost-conscious
 - ✅ Production-ready
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
 
 ---
 
@@ -171,6 +183,10 @@ Continuously Improve
 ```
 
 Rather than delivering one-time implementations, CloudOps Velocity focuses on building engineering platforms that continue to evolve alongside business growth, technological change, and operational maturity.
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
 
 ---
 
