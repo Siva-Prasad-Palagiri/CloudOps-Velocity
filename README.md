@@ -184,9 +184,6 @@ Continuously Improve
 
 Rather than delivering one-time implementations, CloudOps Velocity focuses on building engineering platforms that continue to evolve alongside business growth, technological change, and operational maturity.
 
-<p align="right">
-<a href="#top">⬆️ Back to Top</a>
-</p>
 
 ---
 
@@ -196,6 +193,10 @@ Rather than delivering one-time implementations, CloudOps Velocity focuses on bu
 
 **— CloudOps Velocity Engineering Philosophy**
 
+</p>
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
 </p>
 
 ---
@@ -332,6 +333,10 @@ Every platform we engineer is designed to be:
 - ✅ Production Ready
 - ✅ Easy to Operate
 - ✅ Built for Continuous Growth
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
 
 ---
 
@@ -500,6 +505,10 @@ Building platforms—not just infrastructure.
 
 </p>
 
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
+
 ---
 
 # 🛠 Technology Stack
@@ -647,6 +656,10 @@ Continuous Optimization
 | Security | IAM, SSL/TLS, DevSecOps |
 | AI Infrastructure | FastAPI, Ollama, Llama, Vector Databases |
 
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
+
 ---
 
 # 🏗 Reference Architectures
@@ -789,6 +802,10 @@ Security is embedded into every layer of the platform—from infrastructure prov
 - Infrastructure Hardening
 - DevSecOps
 
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
+
 ---
 
 # 🎯 Architecture Design Principles
@@ -812,6 +829,10 @@ Every CloudOps Velocity reference architecture is built around the following pri
 Reference architectures provide a repeatable engineering blueprint that reduces implementation risk, accelerates project delivery, and improves long-term operational consistency.
 
 Rather than designing every solution from scratch, CloudOps Velocity applies proven architectural patterns that can be adapted to different industries, workloads, and business requirements while maintaining engineering best practices.
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
 
 ---
 
@@ -858,6 +879,10 @@ Monitoring
         ▼
 Continuous Improvement
 ```
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
 
 ---
 
@@ -919,6 +944,10 @@ Vector Database
         ▼
 Cloud Storage
 ```
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
 
 ---
 
@@ -1006,6 +1035,10 @@ Our AI infrastructure designs support a wide range of enterprise workloads, incl
 - Knowledge Search
 - Computer Vision Platforms
 - Generative AI Applications
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
 
 ---
 
@@ -1214,6 +1247,10 @@ CloudOps Velocity continues to expand its engineering portfolio across Platform 
 
 Each completed initiative becomes part of a growing knowledge base that demonstrates practical engineering experience, architectural thinking, and operational excellence.
 
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
+
 ---
 
 # 📘 Documentation
@@ -1346,6 +1383,10 @@ CloudOps Velocity is committed to continuously evolving its engineering capabili
 
 Our roadmap reflects the strategic direction of the company while remaining grounded in practical engineering, operational excellence, and customer success.
 
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
+
 ---
 
 # 🚀 2026 Roadmap
@@ -1403,6 +1444,10 @@ Our primary focus is establishing CloudOps Velocity as a trusted engineering par
 - 🔄 Distributed Tracing
 - 🔄 Centralized Logging
 - 🔄 Reliability Dashboards
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
 
 ---
 
@@ -1462,6 +1507,10 @@ Our long-term initiatives include:
 - Compliance Automation
 - Security Observability
 
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
+
 ---
 
 # 📚 Open Source Initiatives
@@ -1506,6 +1555,10 @@ CloudOps Velocity will continue investing in modern cloud-native technologies, P
 Our vision is simple:
 
 > **Build cloud platforms that are secure, scalable, automated, observable, and engineered for the future.**
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
 
 ---
 
@@ -1558,6 +1611,10 @@ Our engineering approach integrates:
 into one cohesive platform strategy.
 
 Every engagement is designed to produce systems that are easier to operate, easier to scale, and easier to maintain.
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
 
 ---
 
@@ -1618,6 +1675,10 @@ Build platforms that continue delivering value long after the initial deployment
 # 🚀 Engineering Simplicity. Delivering Velocity.
 
 CloudOps Velocity exists to help organizations transform cloud infrastructure into reliable engineering platforms that accelerate innovation, strengthen operational resilience, and prepare businesses for the future of cloud-native computing and artificial intelligence.
+
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
 
 ---
 
@@ -1691,6 +1752,10 @@ Bengaluru, India *(Engineering Operations)*
 
 📧 **Email:** info@cloudopsvelocity.com
 
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
+
 ---
 
 # 🚀 Let's Build the Future Together
@@ -1735,3 +1800,6 @@ It helps us share engineering knowledge with the broader cloud-native community.
 
 </p>
 
+<p align="right">
+<a href="#top">⬆️ Back to Top</a>
+</p>
