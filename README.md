@@ -857,7 +857,7 @@ Continuous Improvement
 
 <p align="center">
 
-<img src="assets/images/ai-infrastructure-platform.png" width="100%" alt="AI Platform Architecture">
+<img src="assets/images/ai-platform-architecture.png" width="100%" alt="AI Platform Architecture">
 
 </p>
 
