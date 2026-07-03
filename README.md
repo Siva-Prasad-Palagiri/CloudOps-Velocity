@@ -81,7 +81,7 @@ CloudOps Velocity is a cloud engineering and platform engineering consultancy fo
 ---
 <!-- # 📖 Executive Overview -->
 
-CloudOps Velocity was founded with a simple mission:
+<!-- CloudOps Velocity was founded with a simple mission:
 
 > **Help organizations build cloud platforms that are secure, scalable, automated, observable, and easy to operate.**
 
@@ -95,7 +95,7 @@ Every solution we design follows modern engineering principles, emphasizing auto
 
 <p align="right">
 <a href="#top">⬆️ Back to Top</a>
-</p>
+</p> -->
 
 ---
 <a id="overview"></a>
@@ -108,7 +108,7 @@ We help organizations modernize infrastructure through automation, Infrastructur
 
 <p align="center">
 
-<img src="assets/images/cloudops-overview.png" width="100%">
+<!-- <img src="assets/images/cloudops-overview.png" width="100%"> -->
 
 </p>
 
