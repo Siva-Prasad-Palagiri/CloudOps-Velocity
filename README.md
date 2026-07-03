@@ -443,41 +443,32 @@ Build cloud-native infrastructure for AI and machine learning workloads.
 
 ---
 
+<a id="technology"></a>
+
 # 🛠 Technology Stack
 
-CloudOps Velocity leverages modern cloud-native technologies to build secure, scalable, automated, and production-ready platforms.
+CloudOps Velocity leverages modern cloud-native technologies to design, automate, secure, deploy, monitor, and continuously improve production platforms. Every technology is selected based on reliability, scalability, maintainability, and operational excellence.
 
-Rather than focusing on individual tools, we organize our technology stack around engineering capabilities that work together to support the complete software delivery lifecycle.
+<p align="center">
 
----
-
-## ☁️ Cloud Platforms
-
-Building reliable cloud foundations for modern applications.
-
-<p>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge">
-<img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge">
-<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge">
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge">
+<img src="assets/images/technology-stack.png" width="100%">
 
 </p>
 
 ---
 
-## ⚙️ Platform Engineering
-
-Engineering cloud-native platforms that accelerate software delivery.
+## ☁ Cloud Platform
 
 <p>
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white">
+<img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazoncloudfront&logoColor=white">
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 </p>
 
@@ -485,22 +476,43 @@ Engineering cloud-native platforms that accelerate software delivery.
 
 ## 🚀 DevOps & Automation
 
-Automating infrastructure provisioning, software delivery, and deployment workflows.
+<p>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+<img src="https://img.shields.io/badge/Git-Git-orange?style=for-the-badge&logo=git&logoColor=white">
+
+</p>
+
+---
+
+## ☸ Platform Engineering
 
 <p>
 
-<img src="https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge">
 
 </p>
 
 ---
 
-## 📊 Monitoring & Observability
+## 📦 Infrastructure as Code
 
-Maintaining operational visibility across infrastructure and applications.
+<p>
+
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Infrastructure_as_Code-844FBA?style=for-the-badge">
+
+</p>
+
+---
+
+## 📊 Observability
 
 <p>
 
@@ -508,7 +520,6 @@ Maintaining operational visibility across infrastructure and applications.
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white">
 <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge">
 
 </p>
 
@@ -516,14 +527,12 @@ Maintaining operational visibility across infrastructure and applications.
 
 ## 🔒 Security
 
-Building secure platforms through identity, governance, and infrastructure hardening.
-
 <p>
 
-<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge">
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/SSL/TLS-0052CC?style=for-the-badge">
-<img src="https://img.shields.io/badge/Security%20Groups-4B8BBE?style=for-the-badge">
-<img src="https://img.shields.io/badge/DevSecOps-24292F?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+<img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white">
 
 </p>
 
@@ -531,65 +540,44 @@ Building secure platforms through identity, governance, and infrastructure harde
 
 ## 🤖 AI Infrastructure
 
-Building production-ready infrastructure for modern AI workloads.
-
 <p>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Llama-4B0082?style=for-the-badge">
-<img src="https://img.shields.io/badge/Vector%20Database-2563EB?style=for-the-badge">
-<img src="https://img.shields.io/badge/MLOps-8B5CF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Vector_Database-2E86DE?style=for-the-badge">
+<img src="https://img.shields.io/badge/MLOps-8E44AD?style=for-the-badge">
 
 </p>
 
 ---
 
-## 🏗 Engineering Workflow
+## 💻 Operating Systems
 
-Every CloudOps Velocity engagement follows an engineering-first lifecycle.
+<p>
 
-```text
-Cloud Strategy
-        │
-        ▼
-Architecture Design
-        │
-        ▼
-Infrastructure as Code
-        │
-        ▼
-CI/CD Automation
-        │
-        ▼
-Platform Engineering
-        │
-        ▼
-Production Deployment
-        │
-        ▼
-Monitoring & Observability
-        │
-        ▼
-Continuous Optimization
-```
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+</p>
 
 ---
 
-## 🎯 Engineering Focus Areas
+## 🎯 Engineering Principles
 
-| Domain | Primary Technologies |
-|----------|----------------------|
-| Cloud Architecture | AWS, VPC, EC2, S3, RDS, CloudFront |
-| Platform Engineering | Kubernetes, Helm, NGINX |
-| Infrastructure as Code | Terraform |
-| DevOps | GitHub Actions, Jenkins |
-| Monitoring | Prometheus, Grafana, Datadog, ELK |
-| Security | IAM, SSL/TLS, DevSecOps |
-| AI Infrastructure | FastAPI, Ollama, Llama, Vector Databases |
+- ☁ Cloud Native Architecture
+- ⚙ Platform Engineering
+- 🚀 DevOps Automation
+- 📦 Infrastructure as Code
+- 🔒 Security by Design
+- 📊 Observability First
+- 🤖 AI Infrastructure Ready
+- 📈 Continuous Improvement
+
+> **"Technology is only valuable when it enables reliable, secure, and scalable engineering outcomes."**
 
 <p align="right">
-<a href="#top">⬆️ Back to Top</a>
+<a href="#top">⬆ Back to Top</a>
 </p>
 
 ---
