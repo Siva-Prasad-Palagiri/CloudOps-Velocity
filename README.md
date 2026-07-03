@@ -106,7 +106,7 @@ We help organizations modernize infrastructure through automation, Infrastructur
 
 <p align="center">
 
-<!-- <img src="assets/images/cloudops-overview.png" width="100%"> -->
+<img src="assets/images/cloudops-overview.png" width="100%">
 
 </p>
 
@@ -128,242 +128,154 @@ We help organizations modernize infrastructure through automation, Infrastructur
 </p>
 
 ---
+<a id="engineering-philosophy"></a>
+
 # ⚙️ Engineering Philosophy
 
-Modern cloud platforms should be more than infrastructure—they should serve as reliable, secure, and scalable foundations that enable engineering teams to innovate with confidence.
+At CloudOps Velocity, we believe that successful cloud transformation is not achieved by deploying infrastructure alone—it is achieved by building engineering platforms that enable teams to deliver software faster, operate reliably, and continuously improve.
 
-At CloudOps Velocity, every architecture, deployment pipeline, and operational process is designed around a consistent set of engineering principles that prioritize long-term maintainability over short-term convenience.
-
-These principles guide every solution we build, regardless of project size or industry.
-
-<p align="right">
-<a href="#top">⬆️ Back to Top</a>
-</p>
-
----
-
-## 🎯 Our Engineering Principles
-
-| Principle | What It Means |
-|------------|---------------|
-| 🤖 **Automation First** | Eliminate repetitive manual tasks through Infrastructure as Code, CI/CD, and automated operations. |
-| 🔒 **Security by Design** | Integrate security into every layer—from identity management and networking to deployment pipelines and production operations. |
-| 📈 **Reliability over Complexity** | Build systems that remain simple, predictable, and resilient under production workloads. |
-| ☁️ **Cloud Native Thinking** | Design architectures that leverage modern cloud capabilities for scalability, resilience, and operational efficiency. |
-| ⚙️ **Platform Engineering** | Build internal platforms that empower developers to deliver software faster without sacrificing governance or reliability. |
-| 📚 **Documentation as Code** | Treat documentation as a core engineering asset that evolves alongside infrastructure and applications. |
-| 🏗 **Infrastructure as Code** | Manage cloud infrastructure through version-controlled, repeatable, and auditable automation. |
-| 📊 **Observability by Default** | Implement monitoring, logging, tracing, dashboards, and alerting from the beginning—not as an afterthought. |
-| 🔄 **Continuous Improvement** | Continuously refine architecture, automation, security, and operational practices based on measurable outcomes. |
-
-<p align="right">
-<a href="#top">⬆️ Back to Top</a>
-</p>
-
----
-
-## 🚀 Our Engineering Mindset
-
-We don't simply provision cloud resources or deploy applications.
-
-We engineer complete platforms that allow development teams to build, test, deploy, monitor, and operate software with confidence.
-
-Every engagement focuses on creating systems that are:
-
-- ✅ Secure by default
-- ✅ Automated wherever possible
-- ✅ Observable from day one
-- ✅ Easy to maintain
-- ✅ Designed to scale
-- ✅ Cost-conscious
-- ✅ Production-ready
-
-<p align="right">
-<a href="#top">⬆️ Back to Top</a>
-</p>
-
----
-
-## 💡 Our Approach
-
-Every successful platform follows a disciplined engineering lifecycle:
-
-```text
-Understand
-      │
-      ▼
-Design
-      │
-      ▼
-Automate
-      │
-      ▼
-Deploy
-      │
-      ▼
-Observe
-      │
-      ▼
-Optimize
-      │
-      ▼
-Continuously Improve
-```
-
-Rather than delivering one-time implementations, CloudOps Velocity focuses on building engineering platforms that continue to evolve alongside business growth, technological change, and operational maturity.
-
-
----
+Every solution we design follows a set of engineering principles focused on automation, security, scalability, operational excellence, and long-term sustainability.
 
 <p align="center">
 
-> **"Engineering isn't about deploying infrastructure. It's about building reliable platforms that enable businesses to move faster with confidence."**
-
-**— CloudOps Velocity Engineering Philosophy**
+<img src="assets/images/engineering-philosophy.png" width="100%">
 
 </p>
 
+## Our Engineering Principles
+
+### ☁ Cloud Native by Default
+
+Design modern cloud platforms that are resilient, scalable, and built around cloud-native best practices.
+
+---
+
+### ⚙ Automation First
+
+Reduce manual operations through Infrastructure as Code, CI/CD, automation, and repeatable engineering processes.
+
+---
+
+### 🔒 Security by Design
+
+Integrate identity, network security, compliance, encryption, and governance into every layer of the platform.
+
+---
+
+### 📊 Observability Everywhere
+
+Build systems that are measurable, monitorable, traceable, and capable of proactive incident detection.
+
+---
+
+### 🚀 Platform Thinking
+
+Empower development teams with reusable platforms, self-service capabilities, standardized workflows, and improved developer experience.
+
+---
+
+### 📈 Continuous Improvement
+
+Engineering is an ongoing process of measuring, learning, optimizing, and evolving to meet changing business needs.
+
+---
+
+## Engineering Lifecycle
+
+```text
+Discover
+      ↓
+Design
+      ↓
+Build
+      ↓
+Automate
+      ↓
+Secure
+      ↓
+Deploy
+      ↓
+Observe
+      ↓
+Improve
+      ↓
+Repeat
+
 <p align="right">
-<a href="#top">⬆️ Back to Top</a>
+<a href="#top">⬆ Back to Top</a>
 </p>
 
 ---
+
+<a id="what-we-build"></a>
 
 # 🚀 What We Build
 
-CloudOps Velocity specializes in designing and operating modern cloud platforms that enable organizations to build, deploy, scale, and manage applications with confidence.
+CloudOps Velocity designs and operates production-ready engineering platforms that enable organizations to build, deploy, secure, observe, and scale modern applications across cloud environments.
 
-Our engineering capabilities span the complete cloud platform lifecycle—from infrastructure design and automation to production operations, observability, and AI infrastructure.
+Rather than delivering isolated infrastructure components, we engineer complete cloud platforms that accelerate software delivery, improve operational reliability, and prepare businesses for AI-driven innovation.
 
----
+<p align="center">
 
-## ☁️ Cloud Execution
+<img src="assets/images/what-we-build.png" width="100%">
 
-We design and implement secure, scalable, and highly available cloud environments that provide the foundation for modern applications.
+</p>
 
-### Capabilities
+## Engineering Capabilities
 
-- AWS Cloud Architecture
-- Landing Zone Design
-- Multi-Environment Infrastructure
-- Virtual Private Cloud (VPC)
-- Identity & Access Management (IAM)
-- Networking & DNS
-- Load Balancing
-- Auto Scaling
-- Disaster Recovery Planning
-- Cost Optimization
+### ☁ Cloud Execution
+Design and deploy secure, scalable, and cost-efficient cloud environments built for production workloads.
 
 ---
 
-## ⚙️ Platform Engineering
-
-We build internal developer platforms that enable engineering teams to deliver software faster through standardized infrastructure, automation, and self-service capabilities.
-
-### Capabilities
-
-- Kubernetes Platforms
-- Internal Developer Platforms
-- Platform Standardization
-- GitOps Workflows
-- Infrastructure Automation
-- Developer Self-Service
-- Platform Security
-- Production Operations
+### ⚙ Platform Engineering
+Build self-service platforms that improve developer productivity through reusable infrastructure, automation, and standardized workflows.
 
 ---
 
-## 🚀 DevOps & Automation
-
-Automation is at the core of every platform we build.
-
-Our delivery pipelines are designed to reduce manual effort, improve deployment reliability, and accelerate software delivery.
-
-### Capabilities
-
-- CI/CD Pipelines
-- GitHub Actions
-- Jenkins Automation
-- Docker
-- Infrastructure as Code
-- Release Automation
-- Deployment Strategies
-- Continuous Delivery
+### 🚀 DevOps Automation
+Automate software delivery using CI/CD pipelines, Infrastructure as Code, GitOps, and release automation.
 
 ---
 
-## 🤖 AI Infrastructure
-
-Modern AI applications require infrastructure that is scalable, observable, and optimized for production workloads.
-
-CloudOps Velocity designs AI-ready platforms capable of supporting the complete machine learning lifecycle.
-
-### Capabilities
-
-- AI Platform Architecture
-- GPU Infrastructure
-- Model Deployment
-- Kubernetes Inference
-- Vector Databases
-- RAG Infrastructure
-- AI API Platforms
-- MLOps Foundations
+### ☸ Kubernetes Platforms
+Deploy enterprise-grade Kubernetes environments with high availability, ingress, observability, RBAC, and GitOps.
 
 ---
 
-## 📊 Observability & Operations
-
-Reliable platforms require complete visibility into infrastructure, applications, and operational health.
-
-We implement observability as a core engineering capability rather than an afterthought.
-
-### Capabilities
-
-- Metrics Collection
-- Centralized Logging
-- Distributed Tracing
-- Alerting
-- Dashboards
-- Incident Response
-- Capacity Planning
-- Operational Runbooks
+### 🤖 AI Infrastructure
+Build AI-ready platforms capable of hosting large language models, GPU workloads, vector databases, inference APIs, and MLOps pipelines.
 
 ---
 
-## 🔒 Security & Governance
-
-Security is integrated throughout the engineering lifecycle rather than applied at the end of a project.
-
-Every platform is designed with governance, compliance, and operational security in mind.
-
-### Capabilities
-
-- Identity & Access Management
-- Network Security
-- SSL/TLS
-- Secrets Management
-- Security Hardening
-- Infrastructure Governance
-- DevSecOps
-- Compliance Readiness
+### 📊 Observability Engineering
+Implement end-to-end monitoring, centralized logging, distributed tracing, alerting, dashboards, and operational insights.
 
 ---
 
-## 🎯 Our Goal
+### 🔒 DevSecOps
+Embed security, compliance, identity management, secrets management, and governance throughout the software delivery lifecycle.
 
-Every platform we engineer is designed to be:
+---
 
-- ✅ Secure
-- ✅ Scalable
-- ✅ Automated
-- ✅ Observable
-- ✅ Cost Efficient
-- ✅ Production Ready
-- ✅ Easy to Operate
-- ✅ Built for Continuous Growth
+### 📦 Infrastructure as Code
+Provision consistent cloud infrastructure using Terraform and automated deployment pipelines.
+
+---
+
+## Platform Outcomes
+
+- ✅ Faster Software Delivery
+- ✅ Higher Platform Reliability
+- ✅ Automated Operations
+- ✅ Improved Developer Experience
+- ✅ Secure by Design
+- ✅ AI-Ready Cloud Platforms
+
+> **"We don't simply deploy cloud infrastructure—we engineer production platforms that enable businesses to innovate with confidence."**
 
 <p align="right">
-<a href="#top">⬆️ Back to Top</a>
+<a href="#top">⬆ Back to Top</a>
 </p>
 
 ---
