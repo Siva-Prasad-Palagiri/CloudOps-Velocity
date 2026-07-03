@@ -56,36 +56,22 @@ CloudOps Velocity is a cloud engineering and platform engineering consultancy fo
 
 <p align="center">
 
-<a href="#-executive-overview">📖 <b>Overview</b></a> •
-
+<a href="#-overview">📖 <b>Overview</b></a> •
 <a href="#-engineering-philosophy">⚙️ <b>Engineering Philosophy</b></a> •
-
 <a href="#-what-we-build">🚀 <b>What We Build</b></a> •
-
-<a href="#-core-services">☁️ <b>Services</b></a> •
-
-<a href="#-technology-stack">🛠 <b>Technology</b></a>
+<a href="#-services">☁️ <b>Services</b></a> •
+<a href="#-technology-stack">🛠️ <b>Technology</b></a> •
+<a href="#-reference-architectures">🏗️ <b>Architecture</b></a>
 
 </p>
 
 <p align="center">
-
-<a href="#-reference-architectures">🏗 <b>Architecture</b></a> •
 
 <a href="#-ai-infrastructure">🤖 <b>AI Infrastructure</b></a> •
-
-<a href="#-case-studies">📚 <b>Case Studies</b></a> •
-
-<a href="#-documentation">📘 <b>Documentation</b></a>
-
-</p>
-
-<p align="center">
-
-<a href="#-roadmap">🗺 <b>Roadmap</b></a> •
-
+<a href="#-engineering-case-studies">📚 <b>Case Studies</b></a> •
+<a href="#-documentation">📘 <b>Documentation</b></a> •
+<a href="#-engineering-roadmap">🗺️ <b>Roadmap</b></a> •
 <a href="#-about-cloudops-velocity">🏢 <b>About</b></a> •
-
 <a href="#-contact">📩 <b>Contact</b></a>
 
 </p>
