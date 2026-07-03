@@ -200,6 +200,7 @@ Observe
 Improve
       ↓
 Repeat
+```
 
 <p align="right">
 <a href="#top">⬆ Back to Top</a>
@@ -280,173 +281,164 @@ Provision consistent cloud infrastructure using Terraform and automated deployme
 
 ---
 
+<a id="services"></a>
+
 # ☁️ Core Services
 
-CloudOps Velocity delivers end-to-end cloud engineering services that help organizations modernize infrastructure, automate software delivery, improve operational efficiency, and prepare for AI-driven workloads.
+CloudOps Velocity delivers end-to-end engineering services that help organizations design, automate, secure, and operate modern cloud platforms. Every engagement follows engineering best practices with a strong focus on automation, reliability, scalability, security, and operational excellence.
 
-Every engagement is tailored to business objectives while following proven engineering practices that prioritize reliability, security, scalability, and operational excellence.
+<p align="center">
+
+<img src="assets/images/core-services.png" width="100%">
+
+</p>
 
 ---
 
-## 🏗 Cloud Architecture & Engineering
+## ☁️ Cloud Execution
 
-Designing resilient, secure, and scalable cloud foundations for modern applications.
+Design, build, migrate, and optimize secure production cloud environments on AWS.
 
 ### Deliverables
 
-- AWS Cloud Architecture Design
-- Landing Zone Implementation
-- Multi-Environment Infrastructure
-- High Availability Architectures
-- Disaster Recovery Planning
-- Network Architecture
-- Cloud Cost Optimization
-- Infrastructure Modernization
+- AWS Landing Zones
+- Cloud Architecture
+- Infrastructure Migration
+- Networking & Connectivity
+- Identity & Access Management
+- High Availability Design
+- Disaster Recovery
+- Cost Optimization
 
 ---
 
 ## ⚙️ Platform Engineering
 
-Building internal platforms that enable engineering teams to deliver software faster through standardized infrastructure and automation.
+Build reusable internal platforms that improve developer productivity and standardize infrastructure.
 
 ### Deliverables
 
-- Kubernetes Platforms
 - Internal Developer Platforms
-- GitOps Workflows
-- Platform Automation
 - Self-Service Infrastructure
-- Developer Experience Improvements
-- Production Platform Operations
-- Platform Standardization
+- Platform Automation
+- Golden Paths
+- Developer Experience
+- Standardized Environments
+- Platform Governance
 
 ---
 
-## 🚀 DevOps & CI/CD Automation
+## 🚀 DevOps Automation
 
-Accelerating software delivery through reliable and repeatable automation pipelines.
+Automate the software delivery lifecycle from code commit to production deployment.
 
 ### Deliverables
 
-- CI/CD Pipeline Design
-- GitHub Actions
-- Jenkins Automation
+- CI/CD Pipelines
+- GitOps
 - Release Automation
-- Deployment Pipelines
-- Docker Containerization
-- Infrastructure as Code
-- Continuous Delivery
+- Build Automation
+- Environment Promotion
+- Deployment Strategies
+- Automated Rollbacks
 
 ---
 
-## ☸ Kubernetes & Container Platforms
+## ☸️ Kubernetes Platforms
 
-Building production-ready Kubernetes environments for scalable and cloud-native applications.
+Design and operate enterprise Kubernetes environments.
 
 ### Deliverables
 
-- Kubernetes Cluster Design
-- Helm Deployments
+- Production Kubernetes Clusters
+- Helm
 - Ingress Controllers
-- Service Mesh Foundations
+- RBAC
 - Autoscaling
+- GitOps Deployment
+- Cluster Upgrades
+- High Availability
+
+---
+
+## 📦 Infrastructure as Code
+
+Provision infrastructure using repeatable, version-controlled automation.
+
+### Deliverables
+
+- Terraform
+- Infrastructure Modules
+- State Management
+- Multi-Environment Deployments
+- Automated Provisioning
+- Infrastructure Testing
+
+---
+
+## 📊 Observability Engineering
+
+Provide complete visibility into infrastructure and applications.
+
+### Deliverables
+
+- Metrics
+- Logging
+- Distributed Tracing
+- Dashboards
+- Alerting
+- Capacity Planning
+- Performance Monitoring
+
+---
+
+## 🔒 DevSecOps
+
+Integrate security into every engineering stage.
+
+### Deliverables
+
+- IAM
 - Secrets Management
-- RBAC Implementation
-- Production Cluster Operations
+- Compliance
+- Security Scanning
+- Vulnerability Assessment
+- Infrastructure Hardening
+- Policy as Code
 
 ---
 
 ## 🤖 AI Infrastructure
 
-Designing cloud platforms capable of supporting modern AI and machine learning workloads.
+Build cloud-native infrastructure for AI and machine learning workloads.
 
 ### Deliverables
 
-- AI Platform Architecture
-- GPU Infrastructure Planning
-- Model Deployment Platforms
-- Kubernetes Inference
-- Vector Database Integration
-- RAG Infrastructure
-- MLOps Foundations
-- AI API Platforms
+- GPU Infrastructure
+- LLM Deployment
+- Inference APIs
+- Vector Databases
+- AI Platform Engineering
+- Model Serving
+- MLOps
+- AI Observability
 
 ---
 
-## 📊 Monitoring & Observability
+## Outcomes
 
-Providing complete visibility into applications, infrastructure, and production environments.
+- ✅ Production-Ready Platforms
+- ✅ Faster Software Delivery
+- ✅ Lower Operational Cost
+- ✅ Improved Reliability
+- ✅ Developer Productivity
+- ✅ Secure Infrastructure
+- ✅ AI-Ready Cloud Platforms
 
-### Deliverables
-
-- Prometheus
-- Grafana Dashboards
-- ELK Stack
-- Datadog Integration
-- OpenTelemetry
-- Centralized Logging
-- Distributed Tracing
-- Alerting & Incident Management
-
----
-
-## 🔒 Security & DevSecOps
-
-Embedding security into every stage of the engineering lifecycle.
-
-### Deliverables
-
-- IAM Strategy
-- Infrastructure Hardening
-- SSL/TLS Implementation
-- Secrets Management
-- Network Security
-- DevSecOps Integration
-- Compliance Readiness
-- Security Best Practices
-
----
-
-## 🛠 Production Operations
-
-Supporting cloud platforms beyond deployment through continuous operational excellence.
-
-### Deliverables
-
-- Production Support
-- Incident Response
-- Capacity Planning
-- Performance Optimization
-- Reliability Engineering
-- Operational Runbooks
-- Maintenance Automation
-- Continuous Improvement
-
----
-
-## 🌍 Engagement Models
-
-CloudOps Velocity works with organizations through flexible engagement models tailored to different business needs.
-
-| Engagement | Best For |
-|------------|----------|
-| 🚀 Project Delivery | Cloud migrations, platform implementation, and modernization initiatives |
-| 🤝 Engineering Partner | Long-term collaboration for cloud engineering and DevOps transformation |
-| 👨‍💻 Staff Augmentation | Supporting internal engineering teams with specialized cloud expertise |
-| 📈 Advisory & Consulting | Architecture reviews, strategy, platform assessments, and technical guidance |
-
----
-
-<p align="center">
-
-### Engineering Simplicity. Delivering Velocity.
-
-Building platforms—not just infrastructure.
-
-</p>
+> **"CloudOps Velocity builds engineering platforms—not isolated infrastructure."**
 
 <p align="right">
-<a href="#top">⬆️ Back to Top</a>
+<a href="#top">⬆ Back to Top</a>
 </p>
 
 ---
