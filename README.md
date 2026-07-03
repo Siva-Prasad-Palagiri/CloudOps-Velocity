@@ -58,42 +58,25 @@ CloudOps Velocity is a cloud engineering and platform engineering consultancy fo
 
 <p align="center">
 
-<a href="#-overview">📖 <b>Overview</b></a> •
-<a href="#-engineering-philosophy">⚙️ <b>Engineering Philosophy</b></a> •
-<a href="#-what-we-build">🚀 <b>What We Build</b></a> •
-<a href="#-services">☁️ <b>Services</b></a> •
-<a href="#-technology-stack">🛠️ <b>Technology</b></a> •
-<a href="#-reference-architectures">🏗️ <b>Architecture</b></a>
+<a href="#overview">📖 <b>Overview</b></a> •
+<a href="#engineering-philosophy">⚙️ <b>Engineering Philosophy</b></a> •
+<a href="#what-we-build">🚀 <b>What We Build</b></a> •
+<a href="#services">☁️ <b>Services</b></a> •
+<a href="#technology-ecosystem">🛠️ <b>Technology</b></a> •
+<a href="#architectures">🏗️ <b>Architecture</b></a>
 
 </p>
 
 <p align="center">
 
-<a href="#-ai-infrastructure">🤖 <b>AI Infrastructure</b></a> •
-<a href="#-engineering-case-studies">📚 <b>Case Studies</b></a> •
-<a href="#-documentation">📘 <b>Documentation</b></a> •
-<a href="#-engineering-roadmap">🗺️ <b>Roadmap</b></a> •
-<a href="#-about-cloudops-velocity">🏢 <b>About</b></a> •
-<a href="#-contact">📩 <b>Contact</b></a>
+<a href="#ai-infrastructure">🤖 <b>AI Infrastructure</b></a> •
+<a href="#case-studies">📚 <b>Case Studies</b></a> •
+<a href="#documentation">📘 <b>Documentation</b></a> •
+<a href="#roadmap">🗺️ <b>Roadmap</b></a> •
+<a href="#about">🏢 <b>About</b></a> •
+<a href="#contact">📩 <b>Contact</b></a>
 
 </p>
-<!-- # 📖 Executive Overview -->
-
-<!-- CloudOps Velocity was founded with a simple mission:
-
-> **Help organizations build cloud platforms that are secure, scalable, automated, observable, and easy to operate.**
-
-We believe modern infrastructure should accelerate engineering teams—not slow them down.
-
-Our work spans the complete platform lifecycle, from cloud architecture and infrastructure automation to Kubernetes platforms, CI/CD pipelines, AI infrastructure, observability, and production operations.
-
-Rather than delivering isolated cloud services, we focus on building complete engineering platforms that enable teams to ship software faster, operate with confidence, and scale sustainably.
-
-Every solution we design follows modern engineering principles, emphasizing automation, reliability, security, documentation, and continuous improvement.
-
-<p align="right">
-<a href="#top">⬆️ Back to Top</a>
-</p> -->
 
 ---
 <a id="overview"></a>
@@ -582,226 +565,134 @@ CloudOps Velocity leverages modern cloud-native technologies to design, automate
 
 ---
 
+<a id="architectures"></a>
+
 # 🏗 Reference Architectures
 
-CloudOps Velocity designs cloud platforms that are secure, scalable, automated, and production-ready.
+CloudOps Velocity designs production-grade cloud platforms using modern engineering practices, cloud-native technologies, automation, observability, and security-first principles.
 
-Every architecture follows engineering principles that prioritize operational excellence, automation, observability, security, and long-term maintainability.
-
-The reference architectures below represent the engineering blueprints we use when designing modern cloud platforms.
-
----
-
-## ☁️ Cloud Execution Framework
-
-A structured approach to designing, deploying, operating, and continuously improving cloud infrastructure.
+The following reference architectures demonstrate the engineering patterns, platform capabilities, and operational models we use to build reliable, scalable, and enterprise-ready cloud environments.
 
 <p align="center">
 
-<img src="assets/images/cloud-execution-framework.png" width="95%" alt="Cloud Execution Framework">
+<img src="assets/images/reference-architectures.png" width="100%">
 
 </p>
-
-### Engineering Focus
-
-- Cloud Strategy
-- AWS Architecture
-- Landing Zones
-- Infrastructure Design
-- Network Architecture
-- Cost Optimization
-- Production Readiness
 
 ---
 
-## ⚙️ Platform Engineering Blueprint
+## 🌐 Architecture Portfolio
 
-Modern software delivery depends on internal platforms that enable developers to build, deploy, and operate applications efficiently.
-
-<p align="center">
-
-<img src="assets/images/platform-engineering-blueprint.png" width="95%" alt="Platform Engineering Blueprint">
-
-</p>
-
-### Engineering Focus
-
-- Kubernetes Platforms
-- Internal Developer Platforms
-- GitOps
-- Infrastructure Automation
-- Self-Service Infrastructure
-- Developer Experience
-- Production Operations
+| Architecture | Description |
+|-------------|-------------|
+| ☁ Cloud Execution Framework | Production-ready AWS cloud foundation with networking, IAM, automation, and operational best practices. |
+| ⚙ Platform Engineering Blueprint | Internal developer platform built around Kubernetes, automation, GitOps, and reusable platform services. |
+| 🚀 DevOps Delivery Pipeline | End-to-end CI/CD automation from source code to production deployment. |
+| ☸ Kubernetes Platform | Highly available Kubernetes platform with ingress, autoscaling, GitOps, monitoring, and security. |
+| 📦 Terraform Platform | Infrastructure as Code architecture using reusable modules, state management, and multi-environment deployments. |
+| 📊 Observability Platform | Centralized monitoring, logging, tracing, dashboards, alerting, and operational insights. |
+| 🔒 Security Architecture | Identity, network security, secrets management, compliance, and zero-trust engineering. |
+| 🤖 AI Infrastructure Platform | GPU-enabled cloud platform for LLMs, inference APIs, vector databases, MLOps, and AI observability. |
 
 ---
 
-## 🚀 DevOps Delivery Pipeline
+## 📂 Architecture Library
 
-Automating software delivery through repeatable, reliable, and secure CI/CD workflows.
+### ☁ Cloud Execution Framework
 
 <p align="center">
 
-<img src="assets/images/devops-delivery-pipeline.png" width="95%" alt="DevOps Delivery Pipeline">
+<img src="assets/images/cloud-execution-framework.png" width="100%">
 
 </p>
-
-### Engineering Focus
-
-- Source Control
-- Continuous Integration
-- Automated Testing
-- Containerization
-- Infrastructure as Code
-- Continuous Delivery
-- Production Deployment
 
 ---
 
-## 🤖 AI Infrastructure Platform
-
-Modern AI workloads require cloud-native infrastructure capable of supporting model training, inference, observability, and scalable deployments.
+### ⚙ Platform Engineering Blueprint
 
 <p align="center">
 
-<img src="assets/images/ai-infrastructure-platform.png" width="95%" alt="AI Infrastructure Platform">
+<img src="assets/images/platform-engineering-blueprint.png" width="100%">
 
 </p>
-
-### Engineering Focus
-
-- AI Platform Architecture
-- GPU Infrastructure
-- Kubernetes Inference
-- Model Serving
-- Vector Databases
-- API Gateways
-- MLOps Foundations
 
 ---
 
-## 📊 Observability Platform
-
-Reliable production systems depend on complete visibility into infrastructure, applications, and user experience.
+### 🚀 DevOps Delivery Pipeline
 
 <p align="center">
 
-<img src="assets/images/observability-platform.png" width="95%" alt="Observability Platform">
+<img src="assets/images/devops-delivery-pipeline.png" width="100%">
 
 </p>
-
-### Engineering Focus
-
-- Metrics
-- Logging
-- Distributed Tracing
-- Dashboards
-- Alerting
-- Incident Response
-- Capacity Planning
 
 ---
 
-## 🔒 Security Architecture
-
-Security is embedded into every layer of the platform—from infrastructure provisioning to production operations.
+### ☸ Kubernetes Platform
 
 <p align="center">
 
-<img src="assets/images/security-architecture.png" width="95%" alt="Security Architecture">
+<img src="assets/images/kubernetes-platform.png" width="100%">
 
 </p>
 
-### Engineering Focus
+---
 
-- Identity & Access Management
-- Network Security
-- Zero Trust Principles
-- Secrets Management
-- SSL/TLS
-- Infrastructure Hardening
-- DevSecOps
+### 📦 Terraform Platform
+
+<p align="center">
+
+<img src="assets/images/terraform-platform.png" width="100%">
+
+</p>
+
+---
+
+### 📊 Observability Platform
+
+<p align="center">
+
+<img src="assets/images/observability-platform.png" width="100%">
+
+</p>
+
+---
+
+### 🔒 Security Architecture
+
+<p align="center">
+
+<img src="assets/images/security-architecture.png" width="100%">
+
+</p>
+
+---
+
+### 🤖 AI Infrastructure Platform
+
+<p align="center">
+
+<img src="assets/images/ai-infrastructure-platform.png" width="100%">
+
+</p>
+
+---
+
+## 🎯 Architecture Principles
+
+- ☁ Cloud Native Design
+- ⚙ Platform Engineering
+- 🚀 Automation First
+- 📦 Infrastructure as Code
+- 🔒 Security by Design
+- 📊 Observability First
+- 🤖 AI Ready Platforms
+- 📈 Continuous Improvement
+
+> **"Reference architectures transform engineering knowledge into repeatable, scalable, and production-ready solutions."**
 
 <p align="right">
-<a href="#top">⬆️ Back to Top</a>
-</p>
-
----
-
-# 🎯 Architecture Design Principles
-
-Every CloudOps Velocity reference architecture is built around the following principles:
-
-| Principle | Objective |
-|------------|-----------|
-| ☁️ Cloud Native | Build scalable and resilient cloud platforms |
-| ⚙️ Platform Engineering | Enable developer productivity through standardized platforms |
-| 🤖 Automation First | Minimize manual operations through Infrastructure as Code and CI/CD |
-| 🔒 Secure by Design | Integrate security into every engineering layer |
-| 📊 Observability | Provide complete operational visibility from day one |
-| 📚 Documentation | Treat documentation as an engineering deliverable |
-| 📈 Continuous Improvement | Continuously evolve architecture based on operational feedback |
-
----
-
-## 🌍 Why Reference Architectures Matter
-
-Reference architectures provide a repeatable engineering blueprint that reduces implementation risk, accelerates project delivery, and improves long-term operational consistency.
-
-Rather than designing every solution from scratch, CloudOps Velocity applies proven architectural patterns that can be adapted to different industries, workloads, and business requirements while maintaining engineering best practices.
-
-<p align="right">
-<a href="#top">⬆️ Back to Top</a>
-</p>
-
----
-
-# 🤖 AI Infrastructure
-
-Artificial Intelligence is transforming how software is built, deployed, and operated.
-
-However, successful AI adoption depends on much more than selecting a machine learning model. Organizations require reliable infrastructure capable of supporting data pipelines, model deployment, scalable inference, monitoring, governance, and continuous improvement.
-
-CloudOps Velocity focuses on engineering the cloud platforms that enable AI workloads to run reliably in production.
-
-Rather than building isolated AI applications, we build the infrastructure that powers them.
-
----
-
-# 🚀 AI Infrastructure Lifecycle
-
-Every production AI platform follows a structured engineering lifecycle.
-
-```text
-Business Problem
-        │
-        ▼
-Data Platform
-        │
-        ▼
-Model Development
-        │
-        ▼
-Model Registry
-        │
-        ▼
-Containerization
-        │
-        ▼
-Kubernetes Deployment
-        │
-        ▼
-Inference APIs
-        │
-        ▼
-Monitoring
-        │
-        ▼
-Continuous Improvement
-```
-
-<p align="right">
-<a href="#top">⬆️ Back to Top</a>
+<a href="#top">⬆ Back to Top</a>
 </p>
 
 ---
@@ -871,57 +762,86 @@ Cloud Storage
 
 ---
 
+<a id="technology-ecosystem"></a>
+
 # 🛠 Technology Ecosystem
 
-CloudOps Velocity continuously evaluates modern technologies for building production AI platforms.
+CloudOps Velocity combines cloud-native technologies, automation platforms, Kubernetes, Infrastructure as Code, observability, security, and AI infrastructure into a unified engineering ecosystem that enables reliable, scalable, and production-ready platforms.
 
-### AI Frameworks
+Rather than adopting tools in isolation, every technology is selected to integrate seamlessly across the entire software delivery lifecycle—from infrastructure provisioning and application deployment to monitoring, security, and continuous improvement.
 
-- FastAPI
-- Python
-- Ollama
-- Llama
-- Hugging Face
-- OpenAI APIs
+<p align="center">
 
----
+<img src="assets/images/technology-ecosystem.png" width="100%">
 
-### Infrastructure
-
-- Kubernetes
-- Docker
-- AWS
-- GPU Compute
-- Linux
+</p>
 
 ---
 
-### Data Platforms
+## ☁ Cloud Platform
 
-- Amazon S3
-- PostgreSQL
-- Redis
-- Vector Databases
+AWS • EC2 • VPC • IAM • Route53 • CloudFront • RDS • S3
 
 ---
 
-### MLOps
+## 🚀 DevOps Automation
 
-- Model Registry
-- CI/CD
-- Monitoring
-- Version Control
-- Automated Deployment
+GitHub Actions • Jenkins • Docker • Maven • Git
 
 ---
 
-### Observability
+## ☸ Platform Engineering
 
-- Prometheus
-- Grafana
-- OpenTelemetry
-- Centralized Logging
-- AI Metrics
+Kubernetes • Helm • NGINX • GitOps
+
+---
+
+## 📦 Infrastructure as Code
+
+Terraform • Reusable Modules • State Management
+
+---
+
+## 📊 Observability
+
+Prometheus • Grafana • Datadog • Elastic Stack
+
+---
+
+## 🔒 Security
+
+IAM • Cloudflare • SSL/TLS • Let's Encrypt • Secrets Management
+
+---
+
+## 🤖 AI Infrastructure
+
+FastAPI • Ollama • Llama • Vector Databases • MLOps
+
+---
+
+## 💻 Operating Systems
+
+Linux • Ubuntu
+
+---
+
+## Engineering Outcomes
+
+- ⚡ Faster Software Delivery
+- ☁ Cloud Native Platforms
+- 🚀 Production Automation
+- 🔒 Secure by Design
+- 📊 Full Observability
+- 📦 Infrastructure as Code
+- 🤖 AI Ready Platforms
+- 📈 Continuous Improvement
+
+> **"Great engineering is not defined by individual tools, but by how seamlessly they work together as a unified platform."**
+
+<p align="right">
+<a href="#top">⬆ Back to Top</a>
+</p>
 
 ---
 
