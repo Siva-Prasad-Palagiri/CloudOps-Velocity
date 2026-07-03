@@ -69,7 +69,7 @@ CloudOps Velocity is a cloud engineering and platform engineering consultancy fo
 
 <p align="center">
 
-<a href="#ai-platform-architecture">🤖 <b>AI Platform Architecture</b></a> •
+<!-- <a href="#ai-platform-architecture">🤖 <b>AI Platform Architecture</b></a> • -->
 <a href="#technology-ecosystem">🌐 <b>Technology Ecosystem</b></a> •
 <a href="#engineering-case-studies">📚 <b>Case Studies</b></a> •
 <a href="#documentation">📘 <b>Documentation</b></a> •
@@ -566,7 +566,7 @@ CloudOps Velocity leverages modern cloud-native technologies to design, automate
 
 ---
 
-<a id="ai-platform-architecture"></a>
+<a id="architectures"></a>
 
 # 🏗 Reference Architectures
 
@@ -1407,6 +1407,7 @@ Our vision is simple:
 
 ---
 
+<a id="about-cloudops-velocity"></a>
 # 🏢 About CloudOps Velocity
 
 CloudOps Velocity is a modern cloud engineering consultancy focused on helping organizations design, build, automate, secure, and operate cloud-native platforms.
@@ -1527,6 +1528,7 @@ CloudOps Velocity exists to help organizations transform cloud infrastructure in
 
 ---
 
+<a id="contact"></a>
 # 📩 Contact
 
 Whether you're modernizing cloud infrastructure, building an internal developer platform, adopting Kubernetes, implementing CI/CD automation, or preparing your organization for AI-driven workloads, CloudOps Velocity is ready to help.
